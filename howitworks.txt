@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+  <h2 id="./index.html"></h2>
+
+
+  <a href="./index.html" target="_self">
+    <h4> Return to NeuralNudge </h4>
+  </a>
+<script src="script.js"></script>
+
+<h2 style="text-align: right;"> How it Works </h2>
+
+
+  <p>
+  <h1> Yourself.Empowered. </h1>
+  </p>
+</head>
+<h3> NeuralNudge supports existing solutions for managing mental health and can act as an effective _, </h3>
+<br>
+
+<h1>Application and Features</h1>
+<body>
+<p> (1) Offers real-time feedback & advice
+(2) Health tracking for personal and clinical use
+</p>
+</html>

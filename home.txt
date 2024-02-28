@@ -1,0 +1,24 @@
+<!DOCTYPE>
+<head>
+<link href="style.css" rel="stylesheet" type="text/css" />
+
+<h1>Home </h1>
+</head>
+<a href="./index.html">
+  <h4> Return to NeuralNudge </h4>
+</a>
+
+
+<h1 style="text-align: center;"> NeuralNudge teaches and encourages mindfulness</h2>
+<p style="text-align: center;"> </p>
+
+   <h2> _ReplaceTxt_ </h2>
+
+<body>
+  <p> A platform and tool to enhance calmness and improve focus</p>
+  <p> 1. Stress and anxiety relief technology </p>
+  <p> 2. _replacetext_ </p>
+  <br>
+  
+  <p> insert image on right -> </p>
+ </body>

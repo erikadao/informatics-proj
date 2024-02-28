@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width">
+  <title>replit</title>
+  <link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+
+  <body>
+  <a href="./index.html">
+    <h4> Return to NeuralNudge </h4>
+  </a>
+
+
+
+  <h1 style="text-align: center;"> Welcome</h1>
+  <p style="text-align: center;">We are NeuralNudge, a group of college students who have shared a similar journey where stress and anxiety became much more than an academic challenge. Our story begins with a group of passionate minds who have navigated a demanding and highly stressful higher education. As college students, we found ourselves deeply impacted by the toll our mental well-being took. We firsthand experienced sleepless nights, tremendous amounts of pressure, and the struggle to maintain a healthy balance between our personal and academic life. 
+
+  Experiencing similar issues, we decided to create a technological innovation that resonated with us. Our mission is to raise awareness, provide resources, and create a community where mental health is taken into consideration. We understand individuals have a personal and unique mental health journey, through our device we aim to lend a helping hand and create resources to help make their journey a little easier. 
+ </p>
+
+  <script src="script.js"></script>
+
+  <h2 style="text-align: center;"> About us: </h2>
+  <h2> Aileen </h2>
+  <p> Informatics - 4th year</p>
+  <h2> Erika </h2>
+  <p>P.H Policy/ Health Informatics Minor –  4th year</p>
+  <h2> Erica </h2>
+  <p>P.H Policy/ Health Informatics Minor –  4th year</p>
+  <h2> Cindy </h2>
+  <p>P.H Policy/ Health Informatics Minor –  3rd year</p>
+
+
+
+
+
+</body>
+
+</html>
